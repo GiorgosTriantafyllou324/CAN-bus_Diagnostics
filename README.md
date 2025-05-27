@@ -6,7 +6,7 @@ It consists of a *Raspberry Pi 3* with touch screen and a PCB that converts the 
 
 The main_app.py has to be executed to run the code after the following line has been written to the terminal:
 
-```sudo ip link set can0 up type can bitrate 1000000```
+``` sudo ip link set can0 up type can bitrate 1000000 ```
 
 to establish a CAN bus communication at a bitrate of 1Mbps (or the bitrate of the specific application).
 
