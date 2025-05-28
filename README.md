@@ -15,4 +15,4 @@ to establish a CAN bus communication at a bitrate of 1Mbps (or the bitrate of th
 * The ```can_reader.py``` file is the one that reads the CAN bus messages and creates an array with the data of the message, for the next stage to process it.
   However, the file needs to be changed according to the specific application since in this project, it is generating random messages for simulation and debugging purposes.
 
-**Further documentation is uploaded in the repository (CAN_Diagnostics Documentation)**
+**Further documentation is available in the CAN_Diagnostics Documentation PDF**
